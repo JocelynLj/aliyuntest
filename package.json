@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "main": "app.js",
   "dependencies": {
+    "@bone/bone-kit-web": "^0.1.48",
     "@bone/bone-mv": "^0.1.20",
     "@bone/bone-web-ui": "^1.0.7",
     "@bone/bone-web-ui-dpl": "^1.0.0",
@@ -42,8 +43,8 @@
     "react-dev-utils": "^9.0.1",
     "react-dom": "^16.0.0",
     "react-redux": "^7.0.3",
-    "react-router": "^5.0.0",
-    "react-router-dom": "^5.0.0",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
     "react-router-redux": "^4.0.8",
     "redux": "^4.0.1",
     "resolve": "^1.10.1",
@@ -86,6 +87,7 @@
     "node-sass": "^4.12.0",
     "parse-json": "^4.0.0",
     "postcss-loader": "^3.0.0",
+    "react-admin": "^2.9.0",
     "react-dev-utils": "^9.0.1",
     "react-redux": "^7.0.3",
     "react-router": "^5.0.0",
@@ -101,6 +103,7 @@
     "web-router": "^1.2.1",
     "webpack": "^4.30.0",
     "webpack-dev-server": "^3.3.1",
+    "ws": "3.3.2",
     "yargs-parser": "^13.1.0"
   }
 }
